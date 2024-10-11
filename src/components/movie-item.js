@@ -1,4 +1,15 @@
+import { useEffect } from "react";
+
+
 const MovieItems = (props)=>{
+
+
+    
+    useEffect(
+        ()=>{
+
+        },[]
+    );
     return(
 
         <div>
